@@ -14,7 +14,7 @@
     </parent>
     <groupId>guru.framework</groupId>
     <artifactId>PetClinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>PetClinic</name>
     <description>PetClinic</description>
     <properties>
@@ -40,6 +40,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:WillyLu326/PetClinicApp.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>PetClinic-0.0.2</tag>
   </scm>
 </project>
