@@ -39,6 +39,6 @@
     </build>
 
     <scm>
-        <developerConnection></developerConnection>
+        <developerConnection>scm:git:git@github.com:WillyLu326/PetClinicApp.git</developerConnection>
     </scm>
 </project>
